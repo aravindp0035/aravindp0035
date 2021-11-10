@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravindp0035
-- 👀 I’m interested in machhine learning and cloud computing.
+- 👀 I’m interested in machine learning and cloud computing.
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
