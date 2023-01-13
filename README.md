@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aravindp0035
-- 👀 I’m interested in machine learning and cloud computing.
-- 🌱 I’m currently learning AWS
+- 👋 Hi, I’m Aravind Pagadala
+- 👀 I’m interested in machine learning and cyber security.
+- 🌱 I’m currently learning ML in cyber security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
